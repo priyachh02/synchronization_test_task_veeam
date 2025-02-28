@@ -13,4 +13,5 @@ Requirements:
   pip install pandas openpyxl
 
 Usage:
+ 
  python sync_script.py <source_folder> <replica_folder> <sync_interval> <log_file.xlsx>
